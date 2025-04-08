@@ -12,5 +12,5 @@ https://github.com/Gokul-VR/animated-tab.git
 Install dependencies:
 npm install
 
-Run the dev server"
+Run the dev server
 npm run dev
